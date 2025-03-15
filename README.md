@@ -31,12 +31,12 @@ chmod +x script.sh
 gcc program.c -o program  
 ./program  
 ```
-##💡 Learn How to:
+## 💡 Learn How to:
 ✅ Use Linux commands in the terminal 🖥️
 ✅ Write shell scripts to automate tasks ⚙️
 ✅ Work with system calls in C 🔗
 ✅ Configure and recompile the Linux kernel 🏗️
 
-##🎯 Contributions
+## 🎯 Contributions
 🔹 Found a bug? Report an issue!
 🔹 Want to improve the content? Fork & contribute!
