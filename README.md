@@ -17,21 +17,20 @@ This repository contains **Operating System (OS) concepts, code samples, and com
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/Operating-System.git
 cd Operating-System
-
+`
 ## 2️⃣ Download Word Files 📄  
 *Navigate to the `documents/` folder and download the `.docx` file containing code samples & explanations.*  
 
 ## 3️⃣ Run Shell Scripts 🖥️  
 ```sh
 chmod +x script.sh  
-./script.sh  
+./script.sh
+`
 4️⃣ Compile & Run C Programs on Linux 🔧
-sh
-Copy
-Edit
+```sh
 gcc program.c -o program  
 ./program  
-
+`
 ##💡 Learn How to:
 ✅ Use Linux commands in the terminal 🖥️
 ✅ Write shell scripts to automate tasks ⚙️
